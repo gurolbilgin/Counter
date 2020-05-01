@@ -55,12 +55,9 @@ class Counter extends Component {
       </Container>
       <br />
       <br />
-
-
-      
+   
     </Container>
-            
-            
+               
         )
     }
 }
